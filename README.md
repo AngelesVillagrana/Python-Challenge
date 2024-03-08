@@ -2,7 +2,7 @@
 This the third homework for the databoocamp
 
 
-##PyBank
+## PyBank
 
 * We have the "budget_data.csv" file inside on the Resources folder. This file contains the profit or losses month by month into 2 columns ("Date" and "Profit/Losses").
 * We have to calculate:
@@ -16,7 +16,7 @@ This the third homework for the databoocamp
 * After all the calcultations we have to save the output into a txt file
 
 
-##PyPoll
+## PyPoll
 
 * We have the "election_data.csv" file inside on the Resources folder. This file contains 3 columns: "VoterId", "County" and "Candidate".
 * We have to calculate:
